@@ -282,6 +282,9 @@ To deploy mmar on your own VPS using docker, you can do the following:
 
     That should open a mmar tunnel through your self-hosted mmar server pointing towards your `localhost:8080`.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/mmar/)
 
 ## License
 
